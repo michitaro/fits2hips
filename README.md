@@ -14,7 +14,7 @@ This script is for making [HiPS](https://arxiv.org/abs/1505.02291) data.
 
 ## Usage
 ```sh
-python -m fits2hips.fits2hips -o m31-hips m31-*.fits
+python -m fits2hips.fits2hips --out-dir m31-hips m31-*.fits
 ```
 
 # See also
