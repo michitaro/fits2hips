@@ -1,5 +1,5 @@
 ## Introduction
-This script is for making [HiPS](https://aladin.u-strasbg.fr/hips/hipsdoc.pdf) data.
+This script is for making [HiPS](https://arxiv.org/abs/1505.02291) data.
 
 ## Dependent Packages
 * [astropy](http://www.astropy.org)
@@ -16,3 +16,7 @@ This script is for making [HiPS](https://aladin.u-strasbg.fr/hips/hipsdoc.pdf) d
 ```sh
 python -m fits2hips.fits2hips -o m31-hips m31-*.fits
 ```
+
+# See also
+* http://aladin.unistra.fr/hips/
+* https://arxiv.org/abs/1505.02291
